@@ -35,6 +35,7 @@ I'm Motasem, Fullstack developer from <img src="https://cdn-icons-png.flaticon.c
 
 **languages and tools:**
 
+<div>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -45,6 +46,7 @@ I'm Motasem, Fullstack developer from <img src="https://cdn-icons-png.flaticon.c
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</div>
 
 <!--
 **Motasem-E/Motasem-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
