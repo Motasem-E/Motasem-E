@@ -3,7 +3,7 @@
 <p>
 Welcome to my page! </br>
 
-I'm Motasem, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/630/630591.png" width="15"/> <b>Brazil</b>, currently Working at SENAI SP</b>.
+I'm Motasem, a Fullstack developer.
 
 </p>
 
