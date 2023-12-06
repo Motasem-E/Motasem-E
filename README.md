@@ -69,22 +69,26 @@ Every programmer is ✨ _special_ ✨. We improve the world!
 
 <!-- Let's Connect -->
 
+<div style="display: flex; flex-direction:column">
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<p>
-<a href="https://github.com/Motasem-E" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/motasem-elmalat" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+  <p>
+  <a href="https://github.com/Motasem-E" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/motasem-elmalat" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  </p>
 
-<!-- Counter -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Motasem-E&label=Profile%20Views&color=0&icon=3&pretty=false" />
-</a></br>
+  <!-- Counter -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Motasem-E&label=Profile%20Views&color=0&icon=3&pretty=false" />
+  </a></br>
 
-<!-- Stats -->
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Motasem-E&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasem-E&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+  <!-- Stats -->
+  <details>
+    <summary>Github Stats ⚡</summary>
+    
+    <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Motasem-E&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasem-E&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  </details>
+
+</div>
