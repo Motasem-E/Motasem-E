@@ -1,21 +1,42 @@
-### Hi there 👋
+<div align="center" style="font-size: 25px; margin-bottom: -10px;">
+  <p font-size="50">
+    <b>Hi , I'm Motasem </b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </p>
+</div>
+<!-- Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br></br>
+<!-- Status Badges -->
+<div  align="center">
 
-<p>
-
-I'm Motasem, a Fullstack developer ⚡
-
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self-taught+Full-Stack+Developer,;Computer+Scientist+Active+Learner+Researcher!&pause=2000&color=F7F7F7)](https://git.io/typing-svg)
 
 ![status](https://img.shields.io/badge/status-online-green)
 ![playing](https://img.shields.io/badge/playing-Elder%20Ring-blue)
 ![coding](https://img.shields.io/badge/coding-springboot%20api-orange)
 ![spotify](https://img.shields.io/badge/listening%20to-nothing-8A2BE2)
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
 
-</br>
+<div  style="margin:20px">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="280" />
 
-**languages and tools used for work and fun:**
+Every programmer is ✨ _special_ ✨. We improve the world!
+
+- 🔭 I’m currently working on Convolutional Neural Networks
+- 🌱 I’m currently learning Advance Java Architecture
+- 👯 I’m looking to collaborate on innovative projects
+- 💬 Ask me about programming languages
+- 📫 How to reach me: LinkedIn below
+- ⚡ Fun fact: I love music and I'm pianist
+<div>
+
+<!-- SKILLS -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<br>
 
 <div>
   <p>Main Stack</p>
@@ -46,23 +67,11 @@ I'm Motasem, a Fullstack developer ⚡
   <img height="30px" src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,figma,xd,idea,postman,powershell,unity,unreal" />
 </div>
 
-<!--
-**Motasem-E/Motasem-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </br>
 
-**Where to find me**
+<!-- Let's Connect -->
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p>
 <a href="https://github.com/Motasem-E" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
