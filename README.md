@@ -3,10 +3,9 @@
   ### Hi , I'm Motasem
 </div>
 <!-- Separator -->
-<img height="7px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Status Badges -->
 <div  align="center">
-</br>
 <img src="https://raw.githubusercontent.com/Motasem-E/Motasem-E/main/header_.png">
 
 </br>
