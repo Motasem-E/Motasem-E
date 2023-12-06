@@ -76,6 +76,12 @@ Every programmer is ✨ _special_ ✨. We improve the world!
 <a href="https://www.linkedin.com/in/motasem-elmalat" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+<!-- Counter -->
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Motasem-E&label=Profile%20Views&icon=3&pretty=false" />
+</a>
+
 <details>
   <summary>Github Stats ⚡</summary>
   
