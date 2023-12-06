@@ -77,11 +77,11 @@ Every programmer is ✨ _special_ ✨. We improve the world!
 </p>
 
 <!-- Counter -->
-
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Motasem-E&label=Profile%20Views&icon=3&pretty=false" />
-</a>
+  <img src="https://visitcount.itsvg.in/api?id=Motasem-E&label=Profile%20Views&color=0&icon=3&pretty=false" />
+</a></br></br>
 
+<!-- Stats -->
 <details>
   <summary>Github Stats ⚡</summary>
   
