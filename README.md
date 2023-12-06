@@ -79,16 +79,16 @@ Every programmer is ✨ _special_ ✨. We improve the world!
   </p>
 
   <!-- Counter -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Motasem-E&label=Profile%20Views&color=0&icon=3&pretty=false" />
-  </a></br>
-
   <!-- Stats -->
   <details>
     <summary>Github Stats ⚡</summary>
     
     <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Motasem-E&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
     <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasem-E&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  </details>
+  </details></br></br>
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Motasem-E&label=Profile%20Views&color=0&icon=3&pretty=false" />
+  </a>
 
 </div>
