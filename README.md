@@ -7,6 +7,9 @@
 </br></br>
 <!-- Status Badges -->
 <div  align="center">
+<img src="https://raw.githubusercontent.com/Motasem-E/Motasem-E/main/header_.png">
+
+</br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self-taught+Full-Stack+Developer,;Computer+Scientist+Active+Learner+Researcher!&pause=2000&color=F7F7F7)](https://git.io/typing-svg)
 
@@ -82,7 +85,6 @@ Every programmer is ✨ _special_ ✨. We improve the world!
   <!-- Stats -->
   <details>
     <summary>Github Stats ⚡</summary>
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Motasem-E&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasem-E&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
