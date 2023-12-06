@@ -6,11 +6,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Status Badges -->
 <div  align="center">
-<img src="https://raw.githubusercontent.com/Motasem-E/Motasem-E/main/header_.png">
-
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self-taught+Full-Stack+Developer,;Computer+Scientist+Active+Learner+Researcher!&pause=2000&color=F7F7F7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self-taught+Full-Stack+Developer,;Computer+Scientist+Active+Learner!&pause=2000&color=F7F7F7)](https://git.io/typing-svg)
 
 ![status](https://img.shields.io/badge/status-online-green)
 ![playing](https://img.shields.io/badge/playing-Elder%20Ring-blue)
@@ -95,3 +93,7 @@ Every programmer is ✨ _special_ ✨. We improve the world!
   </a>
 
 </div>
+
+</br>
+
+<img src="https://raw.githubusercontent.com/Motasem-E/Motasem-E/main/header_.png">
