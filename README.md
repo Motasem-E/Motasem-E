@@ -1,5 +1,5 @@
 <div align="center" style="font-size: 25px; margin-bottom: -10px;">
-  <h1 style="border-bottom: 0; margin-bottom:-10px">
+  <h1 style="border-bottom: 0 !important; margin-bottom:-10px!important">
     Hi , I'm Motasem
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </h1>
