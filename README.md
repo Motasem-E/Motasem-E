@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Status Badges -->
 <div  align="center">
-</br>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self-taught+Full-Stack+Developer,;Computer+Scientist+Active+Learner!&pause=2000&color=F7F7F7)](https://git.io/typing-svg)
 
@@ -65,7 +65,7 @@ Every programmer is ✨ _special_ ✨. We improve the world!
   <img height="30px" src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,figma,xd,idea,postman,powershell,unity,unreal" />
 </div>
 
-</br>
+<br/>
 
 <!-- Let's Connect -->
 
@@ -90,6 +90,6 @@ Every programmer is ✨ _special_ ✨. We improve the world!
 
 </div>
 
-</br>
+<br/>
 
 <img src="https://raw.githubusercontent.com/Motasem-E/Motasem-E/main/header_.png">
